@@ -3,7 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-     
+    <b> 
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
@@ -13,7 +13,7 @@
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="email" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
@@ -30,7 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
+	
    <h1> Thankyou, Happy Learning </h1>
 
   
