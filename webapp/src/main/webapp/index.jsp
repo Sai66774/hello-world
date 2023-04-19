@@ -10,7 +10,7 @@
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
-    
+    <input type="date">
    <pre> Address:   <input type="text" name="adrs"><br/>
 
     <label for="email"><b>Enter Email</b></label>
