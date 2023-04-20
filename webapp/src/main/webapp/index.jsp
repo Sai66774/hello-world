@@ -4,6 +4,7 @@
   <p>Please fill in this form to create an account.</p>
     <hr> 
 <h1> HI EVERY ONE </h1>
+<h2> i am new to CICD</h2>
 <h1><label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     </h1><br>
